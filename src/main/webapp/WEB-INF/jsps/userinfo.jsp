@@ -9,6 +9,7 @@
 <body>
 
 {user}
+{user}
 
 </body>
 </html>
